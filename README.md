@@ -2,7 +2,7 @@
 
 This project created as the semester homework for Deep Learning in Practice with Python and LUA (VITMAV45) course at 2020/21/1 period.
 
-The chosen task is the to train and evaulate a convolutional neural network for COVID-19 detection on lung X-ray and images.
+The chosen task is to train and evaulate a convolutional neural network for COVID-19 detection on lung X-ray and images.
 
 The used dataset can be found [here](https://github.com/ieee8023/covid-chestxray-dataset).
 
