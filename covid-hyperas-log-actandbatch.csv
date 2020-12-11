@@ -1,0 +1,17 @@
+act,pooling,layer1,layer2,batchsize,optim,best_val_acc
+leakyrelu,True,256,512,64,adam,0.7447916865348816
+relu,True,256,512,16,adam,0.765625
+relu,True,256,512,32,adam,0.7552083134651184
+leakyrelu,True,256,512,32,adam,0.7291666865348816
+leakyrelu,True,256,512,16,adam,0.7604166865348816
+leakyrelu,True,256,512,64,adam,0.7395833134651184
+leakyrelu,True,256,512,16,adam,0.7291666865348816
+leakyrelu,True,256,512,64,adam,0.7395833134651184
+leakyrelu,True,256,512,16,adam,0.6979166865348816
+relu,True,256,512,32,adam,0.6302083134651184
+leakyrelu,True,256,512,32,adam,0.734375
+relu,True,256,512,32,adam,0.75
+leakyrelu,True,256,512,32,adam,0.7447916865348816
+leakyrelu,True,256,512,16,adam,0.7135416865348816
+leakyrelu,True,256,512,32,adam,0.6666666865348816
+leakyrelu,True,256,512,32,adam,0.6979166865348816
