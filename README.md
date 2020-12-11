@@ -6,7 +6,7 @@ Team name: GreatPeakyKoders
 
 The chosen task is to train and evaulate a convolutional neural network for COVID-19 detection on lung X-ray and images.
 
-The used datasets are the CovidX four subsets: 
+The used datasets are the CovidX four subsets: <br/>
 -[Covid chestxray](https://github.com/ieee8023/covid-chestxray-dataset) <br/>
 -[Actualmed COVID-19 Chest X-ray Dataset Initiative](https://github.com/agchung/Actualmed-COVID-chestxray-dataset) <br/>
 -[Figure 1 COVID-19 Chest X-ray Dataset Initiative](https://github.com/agchung/Figure1-COVID-chestxray-dataset) <br/>
