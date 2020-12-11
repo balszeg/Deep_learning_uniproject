@@ -6,7 +6,11 @@ Team name: GreatPeakyKoders
 
 The chosen task is to train and evaulate a convolutional neural network for COVID-19 detection on lung X-ray and images.
 
-The used dataset can be found [here](https://github.com/ieee8023/covid-chestxray-dataset).
+The used datasets are the CovidX four subsets: 
+-[Covid chestxray](https://github.com/ieee8023/covid-chestxray-dataset)
+-[Actualmed COVID-19 Chest X-ray Dataset Initiative](https://github.com/agchung/Actualmed-COVID-chestxray-dataset)
+-[Figure 1 COVID-19 Chest X-ray Dataset Initiative](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
+-[Covid19 radiography database on Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
 These images were collected from different hospitals during the 2019-20 Corona virus pandemic. They are not always shows just this specific disease, there several other types too.
 
