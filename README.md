@@ -5,7 +5,6 @@ This project created as the semester homework for Deep Learning in Practice with
 <p align="center">
   <img src="xray2.gif" alt="animated" />
 </p>
-![](xray2.gif)
 
 Team name: GreatPeakyKoders
 
