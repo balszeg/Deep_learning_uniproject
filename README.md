@@ -2,6 +2,9 @@
 
 This project created as the semester homework for Deep Learning in Practice with Python and LUA (VITMAV45) course at 2020/21/1 period.
 
+<p align="center">
+  <img src="xray2.gif" alt="animated" />
+</p>
 ![](xray2.gif)
 
 Team name: GreatPeakyKoders
