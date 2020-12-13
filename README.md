@@ -14,6 +14,10 @@ The used datasets are the CovidX four subsets: <br/>
 
 These images were collected from different hospitals during the 2019-20 Corona virus pandemic. They are not always shows just this specific disease, there several other types too.
 
-Creators and contacts: Jakab Farkas (BERPAX) [@jakabfarkas](https://github.com/jakabfarkas), Zsombor Szalay (FONP0O) [@ZsomBEAST](https://github.com/ZsomBEAST), Bálint Szegedi (GWCSU3) [@balszeg](https://github.com/balszeg)
+Milestone #1:
+Collecting, separating, preprocessing the data.
 
-Re-use or publication of all or any part of the contents is only permitted with the written consent of the lecturers of the course.
+Milestone #2:
+Constructing, traning, and testing a basic Convolutional Neural Network on the dataset.
+
+Creators and contacts: Jakab Farkas (BERPAX) [@jakabfarkas](https://github.com/jakabfarkas), Zsombor Szalay (FONP0O) [@ZsomBEAST](https://github.com/ZsomBEAST), Bálint Szegedi (GWCSU3) [@balszeg](https://github.com/balszeg)
