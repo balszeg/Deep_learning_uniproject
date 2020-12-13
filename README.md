@@ -2,6 +2,8 @@
 
 This project created as the semester homework for Deep Learning in Practice with Python and LUA (VITMAV45) course at 2020/21/1 period.
 
+![](xray.gif)
+
 Team name: GreatPeakyKoders
 
 The chosen task is to train and evaulate a convolutional neural network for COVID-19 detection on lung X-ray and images.
