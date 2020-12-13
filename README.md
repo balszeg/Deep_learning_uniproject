@@ -1,5 +1,7 @@
 # COVID-19 detection on lung X-ray and CT images using Deep Convolutional Networks
 
+![](xray.gif)
+
 This project created as the semester homework for Deep Learning in Practice with Python and LUA (VITMAV45) course at 2020/21/1 period.
 
 Team name: GreatPeakyKoders
