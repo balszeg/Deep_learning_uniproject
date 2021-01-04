@@ -24,6 +24,6 @@ Collecting, separating, preprocessing the data.
 Milestone #2:
 Constructing, traning, and testing a basic Convolutional Neural Network on the dataset.
 
-The presentation can be see [here](https://youtu.be/7lVEOa_ri4U).
+The presentation can be seen [here](https://youtu.be/7lVEOa_ri4U).
 
 Creators and contacts: Jakab Farkas (BERPAX) [@jakabfarkas](https://github.com/jakabfarkas), Zsombor Szalay (FONP0O) [@ZsomBEAST](https://github.com/ZsomBEAST), Bálint Szegedi (GWCSU3) [@balszeg](https://github.com/balszeg)
